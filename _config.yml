@@ -1,0 +1,8 @@
+# Site settings
+title: Jenna Ristilä
+baseurl: ""
+url: "http://jennaristila.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

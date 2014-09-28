@@ -1,0 +1,178 @@
+/* Base */
+/* ----------------------------------------------------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-family: Verdana; 
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'IM Fell Great Primer', serif;
+  font-family: 'Vollkorn', serif;
+  font-family: 'Alegreya', serif;
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 300;
+  background-color: #fdfdfd;
+  color: black; 
+}
+
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+
+
+a         { color: #006C8E; text-decoration: none; }
+a:hover   { color: #000; text-decoration: underline; }
+a:visited { color: #006C8E; }
+
+
+
+/* custom */
+
+
+body {
+	/* Background based on pattern from subtlepatterns.com */
+	background: url('../images/mochagrunge_custom.png') repeat #2F5966; 
+}
+
+.content {
+	width: 800px; 
+	width: 1170px; 
+	margin: 0 auto; 
+	background: #242424; 
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0, .75));
+	-moz-box-shadow: 0 0 20px rgba(0,0,0, .75);
+	box-shadow: 0 0 20px rgba(0,0,0, .75);
+}
+.menu {
+	float: left; 
+	width: 15%; 
+	background: #242424; 
+	margin-top: 140px; 
+}
+.menu ul { list-style: none; }
+.menu a { 
+	color: white; 
+	padding-left: 20px; 
+	font-size: 22px; 
+	line-height: 2; 
+	font-weight: 100; 
+}
+.menu .active { 
+	color: #80A6B3; 
+}
+.menu a:hover { 
+	text-decoration: none; 
+	color: #bbb; 
+	color: #A7B5BA; 
+}
+.mainpage {
+	float: right; 
+	width: 84%; 
+	background: url('../images/frontbg_983.jpg') no-repeat #242424 ; 
+	min-height: 775px; 
+	/* Background based on pattern from subtlepatterns.com */
+	background: url('../images/paper_fibers_custom.png') repeat #DFE1E1; 
+
+	-webkit-box-shadow-left: 0 0 20px rgba(0,0,0, .75));
+	-moz-box-shadow-left: 0 0 20px rgba(0,0,0, .75);
+	box-shadow-left: 0 0 20px rgba(0,0,0, .75);
+
+	-webkit-box-shadow-bottom: 0 0 20px rgba(0,0,0, .75));
+	-moz-box-shadow-bottom: 0 0 20px rgba(0,0,0, .75);
+	box-shadow-bottom: 0 0 20px rgba(0,0,0, .75);
+
+
+}
+.frontpage {
+	background: url('../images/frontbg_983.jpg') no-repeat #242424 ; 
+}
+.banner { 
+	height: 140px; 
+	margin-bottom: 20px; 
+}
+.banner h1 { 
+	font-size: 42px;
+	letter-spacing: -1.75px;
+	line-height: 120px;
+	font-weight: 300;
+
+}
+.page {
+	margin: 0 70px 10px 70px; 
+	text-align: justify; 
+}
+.bio {
+	text-align: justify; 
+}
+.contact {
+	text-align: center; 
+}
+.page img {
+	margin: auto; 
+	display: block; 
+}
+.page h1 {
+	font-size: 68px;
+	font-weight: 300;
+	text-align: center; 
+	margin-bottom: 1em; 
+	margin-bottom: 50px; 
+	font-family: 'Amatic SC', serif;
+	font-family: 'Dawning of a New Day', serif;
+	line-height: 1em; 
+}
+.footer {
+	clear: both; 
+	color: #ccc; 
+	text-align: center; 
+	line-height:2; 
+}
+.site-lang-menu {
+	margin-top: 6em; 
+}
+h2 {
+	font-size: 150%;
+	font-weight: 600;
+}
+h3 {
+	font-size: 120%;
+	font-weight: bold;
+}
+.page ul, .page ol {
+	list-style: none;
+	//list-style-position: outside;
+	line-height: 1.5em; 
+	text-align: left; 
+}
+.page p {
+	margin: 1em 0; 
+}
+strong {
+	font-weight: bold;
+}
+pre {
+	padding: 0 1.5em; 
+}
+code {
+	font-family: initial; 
+  	font-family: 'Alegreya', serif;
+}
+iframe {
+	margin: auto; 
+	display: block;  
+}
+.lcol {
+	width: 60%; 
+}
+.rcol {
+	width: 37%; 
+	float: right; 
+}
+.rcol .lcol {
+	//display: inline-block; 
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+	<div class="content" >
+
+      {% include header.html %}
+    <div class="mainpage frontpage" >
+	  <div class="banner" > 
+	    <a class="site-title" href="{{ site.baseurl }}/">
+          {% if page.lang == "en" %}
+		  <img src="/images/banner.png"    alt="Jenna Ristilä">
+		  {% else %}
+		  <img src="/images/banner_fi.png" alt="Jenna Ristilä">
+		  {% endif %}
+		</a>
+	  </div>
+

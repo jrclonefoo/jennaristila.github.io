@@ -1,0 +1,19 @@
+{% if page.lang != "en" %}
+<a href="{{ page.url | replace:'fi','en' }}"><span class=active>FI</span> | EN</a>
+{% endif %}
+
+{% if page.lang != "fi" %}
+<a href="{{ page.url | replace:'en','fi' }}">FI | <span class=active>EN</span></a>
+{% endif %}
+
+
+
+<!--
+{% if page.lang != "en" %}
+<a href="{{site.url}}{{ page.url | replace:'fi','en' }}">en</a>
+{% endif %}
+
+{% if page.lang != "fi" %}
+<a href="{{site.url}}{{ page.url | replace:'en','fi' }}">fi</a>
+{% endif %}
+-->
