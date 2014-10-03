@@ -1,6 +1,7 @@
 ---
 layout: default
 title: media
+permalink: /fi/media/
 lang: fi
 ---
 

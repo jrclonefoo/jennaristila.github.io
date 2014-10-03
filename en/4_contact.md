@@ -1,6 +1,7 @@
 ---
 layout: contact
 title: contact
+permalink: /en/contact/
 lang: en
 ---
 

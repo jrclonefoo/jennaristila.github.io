@@ -1,6 +1,7 @@
 ---
 layout: bio
 title: biografia
+permalink: /fi/biography/
 lang: fi
 ---
 

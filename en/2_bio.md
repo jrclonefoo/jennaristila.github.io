@@ -1,6 +1,7 @@
 ---
 layout: bio
 title: biography
+permalink: /en/biography/
 lang: en
 ---
 
