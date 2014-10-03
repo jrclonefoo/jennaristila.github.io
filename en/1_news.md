@@ -1,7 +1,6 @@
 ---
 layout: news
 title: news
-permalink: /news/
 lang: en
 ---
 

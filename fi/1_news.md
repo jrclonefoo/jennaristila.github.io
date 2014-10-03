@@ -1,7 +1,6 @@
 ---
 layout: news
 title: uutisia
-permalink: /news/
 lang: fi
 ---
 

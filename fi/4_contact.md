@@ -1,7 +1,6 @@
 ---
 layout: contact
 title: yhteystiedot
-permalink: /contact/
 lang: fi
 ---
 
