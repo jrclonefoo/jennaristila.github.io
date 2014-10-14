@@ -5,7 +5,7 @@ permalink: /en/biography/
 lang: en
 ---
 
-Jenna Ristilä (b. 1989) began her piano studies at the age of 7 in Savonlinna Music School, where her teacher was Anja Ojanen-Forsberg. In 2006 she was accepted to the Sibelius Academy Youth Department, and a year later to the Department of Performing Arts, with Hamsa Juris and Teppo Koivisto as her teachers. Ristilä graduated as a master of music in spring 2014 receiving the highest grade from her master's recital. She is grateful to the Finnish Cultural Foundation and the ProMusica Foundation for their support.  
+Jenna Ristilä (b. 1989) began her piano [studies](facebook.com) at the age of 7 in Savonlinna Music School, where her teacher was Anja Ojanen-Forsberg. In 2006 she was accepted to the Sibelius Academy Youth Department, and a year later to the Department of Performing Arts, with Hamsa Juris and Teppo Koivisto as her teachers. Ristilä graduated as a master of music in spring 2014 receiving the highest grade from her master's recital. She is grateful to the Finnish Cultural Foundation and the ProMusica Foundation for their support.  
 
 
 Ristilä has, for example, participated in piano competitions in Finland and in Denmark and performed as a soloist with the Savonlinna Orchestra; worked with many singers and taken singing lessons herself; played chamber music in various ensembles; fallen in love with music analysis; and written her masters thesis on ["When are you closest to music? - Sibelius-Academy piano students' thoughts on different forms of playing and motivation"](http://ethesis.siba.fi/showrecord.php?language=en_EN&ID=449278&).
